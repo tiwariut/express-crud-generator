@@ -1,0 +1,20 @@
+{
+  "resourceName": "Resource",
+  "fields": [
+    {
+      "key": "name",
+      "type": "String",
+      "required": true
+    },
+    {
+      "key": "value",
+      "type": "Number",
+      "defaultValue": 0
+    },
+    {
+      "key": "isActive",
+      "type": "Boolean",
+      "required": true
+    }
+  ]
+}
